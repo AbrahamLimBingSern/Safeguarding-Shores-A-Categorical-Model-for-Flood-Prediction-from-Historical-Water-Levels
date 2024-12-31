@@ -70,6 +70,6 @@ The dataset includes daily measurements of various environmental factors, such a
 
 Model performance will be evaluated using accuracy, precision, recall, and F1-score to compare the effectiveness of different algorithms.
 
-You can also go to Medium for a more detailed explanation about this project, using the link Water Level Prediction and Flood Alert Based on Historical Data[1].
+You can also go to Medium for a more detailed explanation of this project, using the link [Water Level Prediction and Flood Alert Based on Historical Data].
 
-[1]: https://medium.com/@limbingsern123/water-level-prediction-and-flood-alert-based-on-historical-data-24508aa9cac2
+[Water Level Prediction and Flood Alert Based on Historical Data]: https://medium.com/@limbingsern123/water-level-prediction-and-flood-alert-based-on-historical-data-24508aa9cac2
