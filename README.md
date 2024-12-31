@@ -24,8 +24,8 @@ The dataset includes daily measurements of various environmental factors, such a
 - Water level
 - Streamflow
 - Weather conditions
-![image](https://github.com/user-attachments/assets/7a0adaac-d6ad-43aa-9c46-d0a13d9e7f0a)
 
+![image](https://github.com/user-attachments/assets/7a0adaac-d6ad-43aa-9c46-d0a13d9e7f0a)
 
 ## Data Preprocessing
 
