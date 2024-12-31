@@ -51,6 +51,9 @@ The dataset includes daily measurements of various environmental factors, such a
   - Slightly strong correlation between water level and streamflow (0.42).
   - Weak correlation between water level and rainfall (0.14).
   - Slightly strong negative correlation between weather and water level (-0.41).
+ 
+![image](https://github.com/user-attachments/assets/0d357459-8dcd-4782-8c50-bd12b7ca3271)
+
 
 ## Model Development
 
